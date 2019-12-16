@@ -1,0 +1,139 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{pan_yang_2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PSJ}{%
+         family={Pan},
+         familyi={P\bibinitperiod},
+         given={Sinno\bibnamedelima Jialin},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=YQ}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Qiang},
+         giveni={Q\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PSJYQ1}
+    \strng{fullhash}{PSJYQ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1109/tkde.2009.191
+    \endverb
+    \field{number}{10}
+    \field{pages}{1345–1359}
+    \field{title}{A Survey on Transfer Learning}
+    \field{volume}{22}
+    \field{journaltitle}{IEEE Transactions on Knowledge and Data Engineering}
+    \field{year}{2010}
+  \endentry
+
+  \entry{gao_fan_jiang_han_2008}{article}{}
+    \name{author}{4}{}{%
+      {{hash=GJ}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={Jing},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FW}{%
+         family={Fan},
+         familyi={F\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=JJ}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Jing},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Han},
+         familyi={H\bibinitperiod},
+         given={Jiawei},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GJFWJJ+1}
+    \strng{fullhash}{GJFWJJHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1145/1401890.1401928
+    \endverb
+    \field{title}{Knowledge transfer via multiple model local structure
+  mapping}
+    \field{journaltitle}{Proceeding of the 14th ACM SIGKDD international
+  conference on Knowledge discovery and data mining - KDD 08}
+    \field{year}{2008}
+  \endentry
+
+  \entry{bayesian-prior}{misc}{}
+    \name{author}{2}{}{%
+      {{hash=LX}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Xiao},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bilmes},
+         familyi={B\bibinitperiod},
+         given={Jeff},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LXBJ1}
+    \strng{fullhash}{LXBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A Bayesian Divergence Prior for Classifier Adaptation}
+    \field{year}{2007}
+  \endentry
+
+  \entry{shimodaira_2000}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SH}{%
+         family={Shimodaira},
+         familyi={S\bibinitperiod},
+         given={Hidetoshi},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SH1}
+    \strng{fullhash}{SH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/s0378-3758(00)00115-4
+    \endverb
+    \field{number}{2}
+    \field{pages}{227–244}
+    \field{title}{Improving predictive inference under covariate shift by
+  weighting the log-likelihood function}
+    \field{volume}{90}
+    \field{journaltitle}{Journal of Statistical Planning and Inference}
+    \field{year}{2000}
+  \endentry
+\enddatalist
+\endinput
